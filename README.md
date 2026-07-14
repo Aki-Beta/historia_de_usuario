@@ -24,3 +24,6 @@ The program prints a daily sales report with the total revenue.
 ## Results
 
 The program is currently generating a daily sales report based on the products entered by the user.
+
+
+https://github.com/DEM2/base_datos/blob/main/README.md
